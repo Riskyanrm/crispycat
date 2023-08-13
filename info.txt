@@ -177,3 +177,4 @@ The life expectancy of cats has nearly doubled over the last fifty years.
 Kittens remain with their mother till the age of 9 weeks.
 Cats that live together sometimes rub each others heads to show that they have no intention of fighting. Young cats do this more often, especially when they are excited.
 A healthy cat has a temperature between 38 and 39 degrees Celcius.
+Edward Lear, author of \The Owl and the Pussycat\"", is said to have had his new house in San Remo built to exactly the same specification as his previous residence, so that his much-loved tabby, Foss, would immediately feel at home."""
